@@ -1,6 +1,7 @@
 # Vercel Reverse Proxy
 [![Deploy with Vercel](https://vercel.com/button)]
 
+ok
 
 for wordpress reverse proxy, open your wp-config.php. after PHP tag opening at the beginning of the file, add these lines of code:
 ````
