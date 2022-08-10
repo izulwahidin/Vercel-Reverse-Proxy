@@ -1,6 +1,0 @@
-{
-  "version": 2,
-  "routes": [
-  	{"src": "/(.*)","dest": "http://dev-namelist.pantheonsite.io/$1"}
-  ]
-}
