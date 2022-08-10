@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-  	{"src": "/(.*)","dest": "https://dev-wahidin.pantheonsite.io/$1"}
+  	{"src": "/(.*)","dest": "http://dev-namelist.pantheonsite.io/$1"}
   ]
 }
