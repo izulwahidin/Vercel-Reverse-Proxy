@@ -5,8 +5,8 @@
       "src": "/(.*)","dest": "https://dev-wahidin.pantheonsite.io/$1",
       "headers": [
         {
-          "key": 'X-Robots-Tag',
-          "value": 'index'
+          "key": "X-Robots-Tag",
+          "value": "index"
         }
       ],
     }
