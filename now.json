@@ -3,7 +3,7 @@
   "routes": [
   	{
       "src": "/(.*)","dest": "https://dev-wahidin.pantheonsite.io/$1",
-      "headers": { "x-robots-tags": "index" }
+      "headers": { "x-robots-tag": "index" }
     }
   ]
 }
