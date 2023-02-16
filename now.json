@@ -1,6 +1,9 @@
 {
   "version": 2,
   "routes": [
-  	{"src": "/(.*)","dest": "https://dev-wahidin.pantheonsite.io/$1"}
+  	{
+      "src": "/(.*)","dest": "https://dev-wahidin.pantheonsite.io/$1",
+      "headers": { "x-robots-tags": "index" }
+    }
   ]
 }
